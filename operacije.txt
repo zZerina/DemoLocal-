@@ -5,3 +5,5 @@ oduzimanje
 množenje
 
 algoritmi 
+
+definicije
